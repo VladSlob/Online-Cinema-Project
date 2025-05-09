@@ -17,3 +17,10 @@ Features:
 + Order management
 + Payment processing (using Stripe)
 + Email notifications
+
+How to Run the Project:
+
+To set up and run the Online Cinema API project on your local machine, follow these steps.
+
+1. Clone the Repository:
+First, clone the project repository from GitHub.
