@@ -75,4 +75,11 @@ poetry run uvicorn src.main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 Access the Services:
-API - http://localhost:8000
+
+API - ```http://localhost:8000```
+
+pgAdmin - ```http://localhost:3333 (Use .env credentials)```
+
+MailHog UI - ```http://localhost:8025 (SMTP testing)```
+
+MinIO Console - ```http://localhost:9001 (S3-compatible storage)```
