@@ -23,4 +23,9 @@ How to Run the Project:
 To set up and run the Online Cinema API project on your local machine, follow these steps.
 
 1. Clone the Repository:
+
 First, clone the project repository from GitHub.
+```
+git https://github.com/VladSlob/Online-Cinema-Project
+cd online-cinema
+```
